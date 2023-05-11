@@ -10,7 +10,7 @@ This is a personal project that takes inspiration from the Flask video series cr
 - Create, update and delete Posts
 - Database creation with SQLite
 - Creation of a home page where user posts are displayed and which contains pagination
--
+
 # Virtual environment and Python packages using Pip
 
 This project was created using a virtual environment(Venv) with Pip(version 23.0.1). To install the packages used for the project, follow the instructions below:
